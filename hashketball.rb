@@ -1,7 +1,7 @@
 # Write your code here!
 
 def game_hash
-hashketxball = {:home => {:team_name => "Brooklyn Nets", :colors => ["Black", "White"], :players => [{"Alan Anderson" => => {
+hashketxball = {:home => {:team_name => "Brooklyn Nets", :colors => ["Black", "White"], :players => [{"Alan Anderson" => {
           :number => 0,
           :shoe => 16,
           :points => 22,
