@@ -114,7 +114,7 @@ end
 
 
 def num_points_scored(name)
-  hash = game_hash
+  hash = hashketxball
   hash.each do |location, info|
     info.each do |attribute, stuff|
       if stuff.include?(name)
