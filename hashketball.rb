@@ -133,6 +133,8 @@ def shoe_size(name)
   hash.each do |location, info|
     info.each do |attribute, stuff|
       if stuff.include?(name)
+        puts name
+        puts hash[location][attribute][name][:shoe]
        return hash[location][attribute][name][:shoe]
       end
     end
