@@ -117,7 +117,7 @@ hash = game_hash
 hash.each do |location, info|
   info.each do |attribute, stuff|
     if stuff.include?(name)
-     i = hash[location][attribute][name][:points]
+     i = hash[location][:players][name][:points]
      i
     end
   end
