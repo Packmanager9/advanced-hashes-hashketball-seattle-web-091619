@@ -110,7 +110,7 @@ hashketxball = {:home => {:team_name => "Brooklyn Nets", :colors => ["Black", "W
 end
 
 
-def num_points_scored(player_name, game)
+def num_points_scored(player_name)
   game.each do |team, team_hash|
     team_hash[:players].each do |player, player_hash|
       if player_hash[:name] == player_name
