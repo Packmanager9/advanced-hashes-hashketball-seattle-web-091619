@@ -257,15 +257,3 @@ end
 def winning_team
 return "Brooklyn Nets"
 end
-
-
-
-
-
-
-
-
-
-
-
-
