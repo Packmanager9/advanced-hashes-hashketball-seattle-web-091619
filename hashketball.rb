@@ -244,7 +244,7 @@ def most_points_scored
             end
           end
           puts player_name
-        return hash[location][attribute][player_name][:rebounds]
+        return player_name
       end
     end
   end
