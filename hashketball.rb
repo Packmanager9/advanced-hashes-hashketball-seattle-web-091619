@@ -112,7 +112,7 @@ end
 
 def num_points_scored(name)
 
-  i = 0 
+  i = 0
 hash = game_hash
 hash.each do |location, info|
   info.each do |attribute, stuff|
