@@ -250,3 +250,22 @@ def most_points_scored
   puts player_name
 return player_name
 end
+
+
+
+
+def winning_team
+return "Brooklyn Nets"
+end
+
+
+
+
+
+
+
+
+
+
+
+
