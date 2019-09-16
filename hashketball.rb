@@ -50,7 +50,7 @@ hashketxball = {:home => {:team_name => "Brooklyn Nets", :colors => ["Black", "W
           :steals => 4,
           :blocks => 11,
           :slam_dunks => 1
-        }}]}, 
+        }}]},
 
         :away => {:team_name => "Charlotte Hornets", :colors => ["Turquoise", "Purple"], :players => [{
           "Jeff Adrien" => {
