@@ -107,8 +107,6 @@ hashketxball = {:home => {:team_name => "Brooklyn Nets", :colors => ["Black", "W
 
 
 }
-
-hashketxball
 end
 
 
