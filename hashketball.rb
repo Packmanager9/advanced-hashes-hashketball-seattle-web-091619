@@ -243,9 +243,10 @@ def most_points_scored
               end
             end
           end
-          puts player_name
-        return player_name
       end
     end
   end
+
+  puts player_name
+return player_name
 end
