@@ -205,7 +205,7 @@ def big_shoe_rebounds
               end
             end
           end
-          puts hash[location][attribute][player_name]
+          puts player_name
         return hash[location][attribute][player_name][:rebounds]
       end
     end
